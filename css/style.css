@@ -1,0 +1,68 @@
+
+/* stylowanie sekcji navbar */
+#home {
+    color: white;
+    position: sticky;
+}
+
+#about {
+    color: white;
+
+}
+
+#experiance {
+    color: white;
+}
+
+#contact {
+    color: white;
+}
+
+/* stylowanie sekcji main-header */
+
+.main-header {
+    height: 500px;
+    background-image: url(../img/deskspacelaptop.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-h1 {
+    margin-left: 20%;
+    padding-top: 5%;
+}
+
+.main-h2 {
+    padding: 1%;
+    margin-left: 30%;
+    margin-top: auto;
+}
+
+
+/* stylowanie sekcji o mnie  */
+
+#main-about {
+    background-color: rgb(33,37,47);
+}
+
+#main-card {
+    padding: 1%;
+    margin-left: 5;
+    background-color: rgb(33,37,47);
+
+}
+
+
+#main-h5-title {
+    color: white;
+}
+
+#main-title {
+    color: white;
+}
+
+#front-end {
+    color: white;
+}
+
+
