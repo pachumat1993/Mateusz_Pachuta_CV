@@ -28,13 +28,13 @@
 }
 
 .main-h1 {
-    margin-left: 20%;
+    margin-left: 5%;
     padding-top: 5%;
 }
 
 .main-h2 {
     padding: 1%;
-    margin-left: 30%;
+    margin-left: 10%;
     margin-top: auto;
 }
 
@@ -47,7 +47,7 @@
 
 #main-card {
     padding: 1%;
-    margin-left: 5;
+    margin-left: 1%;
     background-color: rgb(33,37,47);
 
 }
@@ -65,4 +65,13 @@
     color: white;
 }
 
+#btn-home {
+    background-color: gray;
+    border:gray;
+    
+}
 
+
+#btn-home:hover {
+    color: khaki;
+}
